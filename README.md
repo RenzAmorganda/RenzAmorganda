@@ -32,6 +32,6 @@ Feel free to explore my repositories, check out what I’m currently working on,
 ---
 
 ## 🧭 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=RenzAmorganda&icon=0&color=0)](https://visitcount.itsvg.in)
+![visitors](https://visitor-badge.lithub.cc/badge?page_id=RenzAmorganda.readme)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
