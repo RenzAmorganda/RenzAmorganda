@@ -32,6 +32,6 @@ Feel free to explore my repositories, check out what I’m currently working on,
 ---
 
 ## 🧭 Visitor Count
-![visitors](https://visitor-badge.lithub.cc/badge?page_id=RenzAmorganda.readme)
+[![Hits](https://hits.sh/github.com/RenzAmorganda/RenzAmorganda.svg?style=plastic)](https://hits.sh/github.com/RenzAmorganda/RenzAmorganda/)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
